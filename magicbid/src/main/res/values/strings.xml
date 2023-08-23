@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Magicbid</string>
+    <string name="banner_id">ca-app-pub-6683051613977291/9678718580</string>
+
+    <string name="negative_button_text" translatable="false">No, thanks</string>
+
+    <string name="video_starting_in_text" translatable="false">Video starting in %d…</string>
+    <string name="appid" />
+    <string name="ad_attribution">Ad</string>
+    <plurals name="more_coins_text" translatable="false">
+        <item quantity="one">Watch an ad for %d more coin.</item>
+        <item quantity="other">Watch an ad for %d more coins.</item>
+    </plurals>
+</resources>
