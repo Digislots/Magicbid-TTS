@@ -1,6 +1,8 @@
 plugins {
     id("com.android.library")
     id("org.jetbrains.kotlin.android")
+    id ("maven-publish")
+
 }
 
 android {
@@ -65,4 +67,6 @@ dependencies {
     val multidex_version = "2.0.1"
     implementation("androidx.multidex:multidex:$multidex_version")
     implementation ("com.google.code.gson:gson:2.8.9")
+
+
 }
