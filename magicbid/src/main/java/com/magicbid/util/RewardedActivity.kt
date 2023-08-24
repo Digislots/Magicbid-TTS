@@ -1,4 +1,4 @@
-package com.magicbid
+package com.magicbid.util
 
 import android.content.Intent
 import android.os.Bundle
@@ -6,7 +6,8 @@ import android.util.Log
 import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
- import com.google.android.gms.ads.AdRequest
+import com.apptomative.api.ApiUtilities
+import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.MobileAds
 import com.google.android.gms.ads.rewarded.RewardedAd
@@ -14,7 +15,8 @@ import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback
 import com.magicbid.RewardedinterstitialAd
 import com.magicbid.databinding.OpenBinding
 import com.magicbid.databinding.RewardedActivityBinding
- import kotlinx.coroutines.Dispatchers
+import com.papayacoders.imp.util.SharedPrefs
+import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext
 

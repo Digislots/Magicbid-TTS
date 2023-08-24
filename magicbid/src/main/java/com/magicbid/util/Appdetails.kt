@@ -1,4 +1,4 @@
-package com.magicbid
+package com.magicbid.util
 
 data class Appdetails(
     val app_id: Int,

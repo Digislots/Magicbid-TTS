@@ -1,11 +1,12 @@
-package com.magicbid
+package com.papayacoders.imp.util
 
 import android.content.Context
 import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
- import kotlinx.coroutines.CoroutineScope
+import com.magicbid.util.Adscode
+import kotlinx.coroutines.CoroutineScope
 
 object SharedPrefs {
 

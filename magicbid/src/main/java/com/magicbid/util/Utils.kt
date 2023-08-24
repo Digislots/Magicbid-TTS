@@ -1,7 +1,8 @@
-package com.magicbid
+package com.papayacoders.imp.util
 
 import android.content.Context
- import androidx.appcompat.app.AlertDialog
+import android.widget.ImageView
+import androidx.appcompat.app.AlertDialog
 
 import com.google.android.material.dialog.MaterialAlertDialogBuilder
 import com.magicbid.R

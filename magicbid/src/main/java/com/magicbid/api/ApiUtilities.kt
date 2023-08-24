@@ -1,5 +1,7 @@
-package com.magicbid
+package com.apptomative.api
 
+ import ApiInterface
+ import com.papayacoders.imp.util.Constant
  import okhttp3.OkHttpClient
  import okhttp3.logging.HttpLoggingInterceptor
  import retrofit2.Retrofit

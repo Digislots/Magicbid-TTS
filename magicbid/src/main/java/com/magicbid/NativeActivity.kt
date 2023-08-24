@@ -18,7 +18,8 @@ import com.google.android.gms.ads.nativead.NativeAd
 import com.google.android.gms.ads.nativead.NativeAdOptions
 import com.magicbid.databinding.ActivityNativeBinding
 import com.magicbid.databinding.AdUnifiedBinding
-
+import com.magicbid.util.RewardedActivity
+import com.papayacoders.imp.util.SharedPrefs
 
 class NativeActivity : AppCompatActivity() {
     private lateinit var binding: ActivityNativeBinding
