@@ -11,6 +11,7 @@ import com.google.android.gms.ads.AdRequest
 import com.google.android.gms.ads.MobileAds
 import com.magicbid.databinding.OpenBinding
 import com.papayacoders.imp.util.SharedPrefs
+import com.ttsmagic.RewardedinterstitialAd
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch
 import kotlinx.coroutines.withContext

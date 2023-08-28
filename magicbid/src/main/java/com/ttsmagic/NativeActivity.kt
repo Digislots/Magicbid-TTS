@@ -1,4 +1,4 @@
-package com.magicbid
+package com.ttsmagic
 
 import android.content.Intent
 import android.os.Build
@@ -18,7 +18,7 @@ import com.google.android.gms.ads.nativead.NativeAd
 import com.google.android.gms.ads.nativead.NativeAdOptions
 import com.magicbid.databinding.ActivityNativeBinding
 import com.magicbid.databinding.AdUnifiedBinding
-import com.magicbid.util.RewardedActivity
+import com.ttsmagic.util.RewardedActivity
 import com.papayacoders.imp.util.SharedPrefs
 
 class NativeActivity : AppCompatActivity() {

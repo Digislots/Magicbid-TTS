@@ -5,7 +5,7 @@ import android.content.SharedPreferences
 import androidx.appcompat.app.AppCompatActivity
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
-import com.magicbid.util.Adscode
+import com.ttsmagic.util.Adscode
 import kotlinx.coroutines.CoroutineScope
 
 object SharedPrefs {

@@ -5,7 +5,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
-        android:name=".MyApplication"
+        android:name="com.ttsmagic.MyApplication"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -14,15 +14,15 @@
          android:theme="@style/Theme.Magicbid"
         tools:targetApi="31">
         <activity
-            android:name=".SplashActivity"
+            android:name="com.ttsmagic.SplashActivity"
             android:exported="true"
             android:hardwareAccelerated="true">
 
         </activity>
-        <activity android:name="com.magicbid.RewardedinterstitialAd" />
-        <activity android:name="com.magicbid.OpenActivity" />
-        <activity android:name="com.magicbid.NativeActivity" />
-        <activity android:name="com.magicbid.util.RewardedActivity" />
+        <activity android:name="com.magicbid.com.ttsmagic.RewardedinterstitialAd" />
+        <activity android:name="com.magicbid.com.ttsmagic.OpenActivity" />
+        <activity android:name="com.magicbid.com.ttsmagic.NativeActivity" />
+        <activity android:name="com.magicbid.com.ttsmagic.util.RewardedActivity" />
         <activity android:name=".MainActivity" />
 
         <meta-data

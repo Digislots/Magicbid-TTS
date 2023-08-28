@@ -1,4 +1,4 @@
-package com.magicbid.util
+package com.ttsmagic.util
 
 import android.content.Intent
 import android.os.Bundle
@@ -12,7 +12,7 @@ import com.google.android.gms.ads.LoadAdError
 import com.google.android.gms.ads.MobileAds
 import com.google.android.gms.ads.rewarded.RewardedAd
 import com.google.android.gms.ads.rewarded.RewardedAdLoadCallback
-import com.magicbid.RewardedinterstitialAd
+import com.ttsmagic.RewardedinterstitialAd
 import com.magicbid.databinding.OpenBinding
 import com.magicbid.databinding.RewardedActivityBinding
 import com.papayacoders.imp.util.SharedPrefs

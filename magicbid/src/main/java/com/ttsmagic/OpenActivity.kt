@@ -1,4 +1,4 @@
-package com.magicbid
+package com.ttsmagic
 
 import android.content.Intent
 import android.os.Bundle

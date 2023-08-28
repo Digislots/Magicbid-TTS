@@ -1,11 +1,14 @@
-package com.magicbid
+package com.ttsmagic
 
+import MainActivity
 import android.content.Intent
 import android.os.Bundle
 import android.os.CountDownTimer
 import android.util.Log
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.magicbid.R
+
 private const val COUNTER_TIME = 5L
 
 private const val LOG_TAG = "SplashActivity"

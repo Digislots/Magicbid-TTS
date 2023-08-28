@@ -22,8 +22,9 @@ import com.google.android.gms.ads.rewardedinterstitial.RewardedInterstitialAdLoa
 import com.google.gson.Gson
 import com.google.gson.reflect.TypeToken
 import com.magicbid.databinding.ActivityMainBinding
-import com.magicbid.util.Adscode
+import com.ttsmagic.util.Adscode
 import com.papayacoders.imp.util.SharedPrefs
+import com.ttsmagic.RewardedinterstitialAd
 import kotlinx.coroutines.CoroutineScope
 import kotlinx.coroutines.Dispatchers
 import kotlinx.coroutines.launch

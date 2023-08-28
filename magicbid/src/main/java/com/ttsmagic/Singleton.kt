@@ -1,4 +1,4 @@
-package com.magicbid
+package com.ttsmagic
 
 object Singleton{
 

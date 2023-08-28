@@ -6,6 +6,8 @@ import android.os.CountDownTimer
 import android.util.Log
 import android.widget.TextView
 import androidx.appcompat.app.AppCompatActivity
+import com.ttsmagic.MyApplication
+
 private const val COUNTER_TIME = 5L
 
 private const val LOG_TAG = "SplashActivity"

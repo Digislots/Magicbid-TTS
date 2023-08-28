@@ -1,4 +1,4 @@
-package com.magicbid.util
+package com.ttsmagic.util
 
 data class MagicbidResponse(
     val adscode: List<Adscode>,

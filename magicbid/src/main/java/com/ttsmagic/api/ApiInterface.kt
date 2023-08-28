@@ -1,5 +1,5 @@
 
- import com.magicbid.util.MagicbidResponse
+ import com.ttsmagic.util.MagicbidResponse
  import retrofit2.Response
 import retrofit2.http.*
 

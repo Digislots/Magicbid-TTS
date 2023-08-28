@@ -1,5 +1,8 @@
 package com.magicbid
 
+import com.ttsmagic.A
+import com.ttsmagic.Singleton
+
 object Singleton{
 
     init {
